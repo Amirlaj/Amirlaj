@@ -1,7 +1,7 @@
 ## Hi there
 
 
-my name is amir and i am intersted in machine learning
+my name is amir 
 
 
 
